@@ -1,0 +1,9 @@
+numpy
+scipy
+pandas
+gmsh
+pathlib
+MiniSom
+scikit-learn
+scikit-image
+matplotlib
